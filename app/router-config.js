@@ -11,7 +11,7 @@ export const router = new Router([
     view: /*html*/`
     <div class="bg-white p-3">
       <div class="card-body">
-        <h1 class="text-center">Who Wants to be a Trivia'naire</h1>
+        <h1 class="text-center">Who Wants to be a Trivia'naire?</h1>
         <!-- <button class="btn btn-dark" onclick="app.HomeController.testButton()">😎</button> -->
       </div>
     </div>

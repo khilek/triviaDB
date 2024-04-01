@@ -37,16 +37,6 @@ export class Question {
 
 
 
-
-
-
-
-
-
-
-
-
-
 /** data from API
 {
   "type": "multiple",
